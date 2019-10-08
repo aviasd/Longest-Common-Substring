@@ -6,8 +6,8 @@ A C-language modular program that addresses the problem of finding a LCS (Longes
 #### Input:
 1) Two positive integers (**m**, **n**) that are variables that describe the sizes of two
 Series **X** and **Y**
-2) Series **X** with **m** organs (this vector is represented by a dynamic array)
-3) Series **Y** with **n** organs (this vector is represented by a dynamic array)
+2) Series **X** with **m** elements (this vector is represented by a dynamic array)
+3) Series **Y** with **n** elements (this vector is represented by a dynamic array)
 
 #### Output:
 1) Table **c**
